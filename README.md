@@ -76,6 +76,15 @@ e portfólio técnico**.
 
 ---
 
+## 🔗 Fonte do Estudo – NotebookLM - Google
+  
+Este projeto foi desenvolvido a partir de um estudo estruturado no **NotebookLM**,
+utilizado para organizar leituras, anotações e síntese conceitual sobre
+astronomia, Big Data e inteligência artificial.
+
+Acesse o notebook original:
+**👉 https://notebooklm.google.com/notebook/6418a28a-10e6-477a-9941-87fa1f71b6ca**
+
 ## 🎯 Objetivo
 
 Este projeto tem caráter **educacional e de portfólio**, integrando conhecimentos de:
@@ -180,6 +189,15 @@ From this study, content was produced in multiple formats
 and technical portfolio development**.
 
 ---
+
+## 🔗 Study Source – NotebookLM - Google
+
+This project was developed based on a structured study conducted in **NotebookLM**,
+used to organize readings, notes, and conceptual synthesis related to
+astronomy, Big Data, and artificial intelligence.
+
+Access the original NotebookLM notebook:
+**👉 https://notebooklm.google.com/notebook/6418a28a-10e6-477a-9941-87fa1f71b6ca**
 
 ## 🎯 Objective
 
