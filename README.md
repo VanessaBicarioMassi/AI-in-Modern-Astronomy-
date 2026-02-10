@@ -102,3 +102,107 @@ Interesses: Astronomia, Física, Inteligência Artificial e Ciência de Dados �
 
 Este projeto é destinado a fins educacionais e acadêmicos.
 
+
+# AI in Modern Astronomy
+A study on the use of Artificial Intelligence and Big Data in Astronomy, with current examples and references developed using NotebookLM.
+
+# 🌌 The Big Data Revolution in Astronomy
+
+This repository brings together materials produced from a study on
+**Big Data, Artificial Intelligence, and Data Architectures in Modern Astronomy**.
+
+Astronomy has entered its **Fourth Paradigm — Data-Driven Science**,
+where the massive volume of information requires automation, distributed
+architectures, and advanced analytical methodologies to transform raw data
+into real-time scientific discoveries.
+
+---
+
+## 📘 Overview
+
+Modern observatories such as the **Rubin Observatory**, **LSST**, and **SKA**
+produce data volumes on the scale of terabytes and petabytes per day. This scenario
+makes manual analysis impractical and drives the adoption of **Big Data, Machine Learning,
+and Artificial Intelligence** in astronomical research.
+
+This project presents a conceptual and technical overview of:
+- Large-scale data infrastructure
+- Modern storage and analysis architectures
+- The use of AI in exoplanet detection
+- New scientific paradigms based on data integration
+
+---
+
+## 📂 Repository Contents
+
+### 📄 Technical Report
+- **Universo_Dados_Inteligência.pdf**  
+  Conceptual document covering:
+  - The Big Data challenge in astronomy
+  - Data Lakes, Data Cubes, and Virtual Observatories
+  - Classical Machine Learning vs. Deep Learning
+  - Performance metrics in exoplanet detection
+  - Multi-Messenger Astronomy (MMA) and Multi-Wavelength Astronomy (MWA)
+
+### 🎥 Videos
+- **Tsunami_de_Dados_da_Astronomia.mp4**  
+  Science communication video explaining the exponential growth of astronomical data
+  and the role of AI in generating real-time alerts and discoveries.
+
+- **Video_Caçando_Planetas.mp4**  
+  Audiovisual material focused on exoplanet detection in large-scale datasets,
+  addressing modern computational methodologies.
+
+### 🎙️ Audio
+- **Pescando_Planetas_no_Dilúvio_de_Dados.m4a**  
+  Narrative audio content discussing the application of Machine Learning algorithms
+  in the search for exoplanets within massive astronomical datasets.
+
+### 🖼️ Infographic
+- **The Big Data Revolution in Astronomy**  
+  Visual material summarizing the project’s core concepts, including
+  data infrastructure, analytical architectures, and AI applied to astronomy.
+  
+- **Deep_Learning_ou_Métodos_Clássicos_para_Exoplanetas.m4a**  
+  A comparative discussion between Deep Learning and classical machine learning
+  methods applied to exoplanet detection.
+
+---
+
+## 🧠 Methodology
+
+The materials in this repository were developed from a structured study conducted
+in **NotebookLM**, used as an environment for reading, organizing, and synthesizing
+multiple sources related to astronomy, Big Data, and artificial intelligence.
+
+From this study, content was produced in multiple formats
+(text, video, audio, and visual), with a focus on **learning, science communication,
+and technical portfolio development**.
+
+---
+
+## 🎯 Objective
+
+This project has an **educational and portfolio-oriented** purpose, integrating knowledge from:
+
+- Data Science  
+- Data Architecture  
+- Artificial Intelligence  
+- Modern Astronomy  
+
+The repository is intended for students, enthusiasts, and professionals interested
+in the intersection between **technology and science**.
+
+---
+
+## 👩‍🚀 Author
+
+**Vanessa Bicario Massi**  
+Technologist in Systems Analysis and Development  
+Interests: Astronomy, Physics, Artificial Intelligence, and Data Science 🌠
+
+---
+
+## 📜 License
+
+This project is intended for educational and academic purposes.
