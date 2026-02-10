@@ -44,6 +44,10 @@ Este projeto apresenta uma visão conceitual e técnica sobre:
   Vídeo de divulgação científica explicando o crescimento exponencial de dados
   astronômicos e o papel da IA na geração de alertas e descobertas em tempo real.
 
+- **Video_Caçando_Planetas.mp4**
+  Material audiovisual focado na detecção de exoplanetas em grandes volumes de dados,
+  abordando metodologias computacionais modernas.
+
 ### 🎙️ Áudio
 - **Pescando_Planetas_no_Dilúvio_de_Dados.m4a**  
   Conteúdo narrativo em formato de áudio sobre a aplicação de algoritmos de
@@ -53,6 +57,10 @@ Este projeto apresenta uma visão conceitual e técnica sobre:
 - **A Revolução do Big Data na Astronomia**  
   Material visual que sintetiza os principais conceitos do projeto, incluindo
   infraestrutura de dados, arquiteturas analíticas e IA aplicada à astronomia.
+  
+- **Deep_Learning_ou_Métodos_Clássicos_para_Exoplanetas.m4a**
+  Discussão comparativa entre Deep Learning e métodos clássicos de aprendizado
+  de máquina aplicados à detecção de exoplanetas.
 
 ---
 
